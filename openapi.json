@@ -40,7 +40,7 @@
         }
     },
     "servers": [{
-            "url": "https://messaging.bandwidth.com/api/v2",
+            "url": "https://messaging.bandwidth.com/api/v2/ASDF",
             "variables": {}
         }
     ],
